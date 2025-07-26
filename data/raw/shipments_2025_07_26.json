@@ -1,0 +1,802 @@
+[
+    {
+        "shipment_id": "bdd640fb-0667-4ad1-9c80-317fa3b1799d",
+        "vendor_id": "VENDOR_7",
+        "product_id": "PRODUCT_1006",
+        "quantity": 86,
+        "shipment_date": "2025-07-09",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "bc8960a9-23b8-41e9-b924-56de3eb13b90",
+        "vendor_id": "VENDOR_8",
+        "product_id": "PRODUCT_1001",
+        "quantity": 88,
+        "shipment_date": "2025-06-30",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "8b9d2434-e465-4150-bd9c-66b3ad3c2d6d",
+        "vendor_id": "VENDOR_1",
+        "product_id": "PRODUCT_1000",
+        "quantity": 37,
+        "shipment_date": "2025-06-30",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "07a0ca6e-0822-48f3-ac03-1199972a8469",
+        "vendor_id": "VENDOR_4",
+        "product_id": "PRODUCT_1003",
+        "quantity": 25,
+        "shipment_date": "2025-06-30",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "9a1de644-815e-46d1-bb8f-aa1837f8a88b",
+        "vendor_id": "VENDOR_8",
+        "product_id": "PRODUCT_1010",
+        "quantity": 8,
+        "shipment_date": "2025-06-27",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "a65ed389-b74d-4fb1-b2e7-06298fadc1a6",
+        "vendor_id": "VENDOR_5",
+        "product_id": "PRODUCT_1000",
+        "quantity": 26,
+        "shipment_date": "2025-07-22",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "96da1dac-72ff-4d2a-b86e-cbe06b65a6a4",
+        "vendor_id": "VENDOR_4",
+        "product_id": "PRODUCT_1007",
+        "quantity": 8,
+        "shipment_date": "2025-07-09",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "c241330b-01a9-471f-9e8a-774bcf36d58b",
+        "vendor_id": "VENDOR_10",
+        "product_id": "PRODUCT_1009",
+        "quantity": 90,
+        "shipment_date": "2025-07-03",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "47229389-571a-4876-ac30-7511b2b9437a",
+        "vendor_id": "VENDOR_7",
+        "product_id": "PRODUCT_1004",
+        "quantity": 8,
+        "shipment_date": "2025-07-03",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "562b0f79-c374-49ee-b50b-ea63371ecd7b",
+        "vendor_id": "VENDOR_4",
+        "product_id": "PRODUCT_1005",
+        "quantity": 23,
+        "shipment_date": "2025-06-30",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "5be6128e-18c2-4797-a142-ea7d17be3111",
+        "vendor_id": "VENDOR_6",
+        "product_id": "PRODUCT_1004",
+        "quantity": 76,
+        "shipment_date": "2025-07-12",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "0b1f9163-ce9f-457f-83b7-a3a69a8dca03",
+        "vendor_id": "VENDOR_1",
+        "product_id": "PRODUCT_1010",
+        "quantity": 4,
+        "shipment_date": "2025-07-18",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "ec1b8ca1-f91e-4d4c-9ff4-9b7889463e85",
+        "vendor_id": "VENDOR_5",
+        "product_id": "PRODUCT_1009",
+        "quantity": 4,
+        "shipment_date": "2025-07-14",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "d453dd32-4b0d-4b41-8d52-88f1142c3fe8",
+        "vendor_id": "VENDOR_8",
+        "product_id": "PRODUCT_1008",
+        "quantity": 60,
+        "shipment_date": "2025-07-13",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "11ce5dd2-b45e-41f0-b139-d32c93cd59bf",
+        "vendor_id": "VENDOR_5",
+        "product_id": "PRODUCT_1006",
+        "quantity": 91,
+        "shipment_date": "2025-06-28",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "4a15544d-c5e7-4e8a-ba57-8a8ea9488d99",
+        "vendor_id": "VENDOR_8",
+        "product_id": "PRODUCT_1000",
+        "quantity": 83,
+        "shipment_date": "2025-06-29",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "19db3ad0-ddd1-4fb2-bb98-2ef8daf61a26",
+        "vendor_id": "VENDOR_8",
+        "product_id": "PRODUCT_1001",
+        "quantity": 79,
+        "shipment_date": "2025-07-14",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "d58842de-a2bc-472f-b412-b29347294739",
+        "vendor_id": "VENDOR_9",
+        "product_id": "PRODUCT_1007",
+        "quantity": 71,
+        "shipment_date": "2025-07-13",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "35a240ae-5af3-4553-9ec4-2e0829a3b2e9",
+        "vendor_id": "VENDOR_5",
+        "product_id": "PRODUCT_1000",
+        "quantity": 71,
+        "shipment_date": "2025-07-08",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "a5e5a5ab-aefc-4ad8-afc8-9849b3aa7efe",
+        "vendor_id": "VENDOR_3",
+        "product_id": "PRODUCT_1004",
+        "quantity": 96,
+        "shipment_date": "2025-06-29",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "88bd6407-2bcf-4e01-a28d-efe39bf00273",
+        "vendor_id": "VENDOR_1",
+        "product_id": "PRODUCT_1010",
+        "quantity": 62,
+        "shipment_date": "2025-07-07",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "451b4cf3-6123-4df7-b656-af7229d4beef",
+        "vendor_id": "VENDOR_2",
+        "product_id": "PRODUCT_1006",
+        "quantity": 21,
+        "shipment_date": "2025-07-23",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "d7c524a5-5304-417f-af42-e12f3838b326",
+        "vendor_id": "VENDOR_2",
+        "product_id": "PRODUCT_1004",
+        "quantity": 55,
+        "shipment_date": "2025-06-28",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "ce177b4e-0837-48a3-9261-a7ab3aa2e4f9",
+        "vendor_id": "VENDOR_1",
+        "product_id": "PRODUCT_1009",
+        "quantity": 36,
+        "shipment_date": "2025-07-11",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "3602f8ac-10f1-4c81-848a-aa9e66b2bc5b",
+        "vendor_id": "VENDOR_10",
+        "product_id": "PRODUCT_1002",
+        "quantity": 65,
+        "shipment_date": "2025-07-23",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "366eb16f-508e-4ad7-b7c9-3acfe059a0ee",
+        "vendor_id": "VENDOR_5",
+        "product_id": "PRODUCT_1003",
+        "quantity": 76,
+        "shipment_date": "2025-07-20",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "a491f0b2-ea1f-4a65-a27a-984d654821d0",
+        "vendor_id": "VENDOR_2",
+        "product_id": "PRODUCT_1008",
+        "quantity": 10,
+        "shipment_date": "2025-07-18",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "3f22faf8-23be-401d-83cf-2fde24933b83",
+        "vendor_id": "VENDOR_9",
+        "product_id": "PRODUCT_1001",
+        "quantity": 12,
+        "shipment_date": "2025-07-23",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "95a76d79-bf3c-4c06-8343-08bc89fa6a68",
+        "vendor_id": "VENDOR_1",
+        "product_id": "PRODUCT_1004",
+        "quantity": 35,
+        "shipment_date": "2025-07-16",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "5cabcc97-663f-4c97-9562-69f0e5d7b875",
+        "vendor_id": "VENDOR_3",
+        "product_id": "PRODUCT_1008",
+        "quantity": 68,
+        "shipment_date": "2025-07-06",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "827050a8-2369-4584-bf5e-9ff0ff50bde4",
+        "vendor_id": "VENDOR_4",
+        "product_id": "PRODUCT_1001",
+        "quantity": 99,
+        "shipment_date": "2025-07-19",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "dc713d96-0c0f-4195-817a-f08a1745d6d8",
+        "vendor_id": "VENDOR_10",
+        "product_id": "PRODUCT_1005",
+        "quantity": 45,
+        "shipment_date": "2025-07-01",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "cac5b68c-28f4-4481-a0a0-4dc427209bdf",
+        "vendor_id": "VENDOR_1",
+        "product_id": "PRODUCT_1006",
+        "quantity": 80,
+        "shipment_date": "2025-07-16",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "61b1cd22-6280-4c45-9043-5a1098ae4334",
+        "vendor_id": "VENDOR_1",
+        "product_id": "PRODUCT_1000",
+        "quantity": 52,
+        "shipment_date": "2025-07-24",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "405cacec-8774-49a9-b7d2-1e02ff01cf99",
+        "vendor_id": "VENDOR_6",
+        "product_id": "PRODUCT_1006",
+        "quantity": 81,
+        "shipment_date": "2025-07-22",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "ae270da7-02f0-4b90-b143-262fdc5c0eed",
+        "vendor_id": "VENDOR_10",
+        "product_id": "PRODUCT_1001",
+        "quantity": 93,
+        "shipment_date": "2025-07-01",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "c0398710-8976-4334-a281-7efdae849217",
+        "vendor_id": "VENDOR_2",
+        "product_id": "PRODUCT_1009",
+        "quantity": 60,
+        "shipment_date": "2025-07-08",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "1c8eaee9-5715-4d6f-a416-1293c4c2e2e3",
+        "vendor_id": "VENDOR_2",
+        "product_id": "PRODUCT_1009",
+        "quantity": 34,
+        "shipment_date": "2025-07-10",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "00d4af59-7427-4ca3-a87d-06ca6f4cc69a",
+        "vendor_id": "VENDOR_2",
+        "product_id": "PRODUCT_1005",
+        "quantity": 30,
+        "shipment_date": "2025-07-08",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "2dbc2134-c30f-446e-8026-695ff8cda88b",
+        "vendor_id": "VENDOR_10",
+        "product_id": "PRODUCT_1010",
+        "quantity": 91,
+        "shipment_date": "2025-07-20",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "a013ac6e-deda-4e16-9b3d-bd5ce9a1fa6f",
+        "vendor_id": "VENDOR_4",
+        "product_id": "PRODUCT_1000",
+        "quantity": 89,
+        "shipment_date": "2025-07-10",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "9be578c7-81f6-41d4-a392-31a7d777a477",
+        "vendor_id": "VENDOR_10",
+        "product_id": "PRODUCT_1007",
+        "quantity": 91,
+        "shipment_date": "2025-07-05",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "295b4715-c333-4861-9fb8-d16c2720797d",
+        "vendor_id": "VENDOR_1",
+        "product_id": "PRODUCT_1005",
+        "quantity": 57,
+        "shipment_date": "2025-07-22",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "87c5421e-ec24-43c5-8754-108ff4188f3f",
+        "vendor_id": "VENDOR_10",
+        "product_id": "PRODUCT_1003",
+        "quantity": 7,
+        "shipment_date": "2025-06-26",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "04fc6d82-7d15-4385-92fb-e43b99546eb4",
+        "vendor_id": "VENDOR_5",
+        "product_id": "PRODUCT_1006",
+        "quantity": 45,
+        "shipment_date": "2025-07-01",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "fc3e058b-e0f3-4ab0-9cec-4eb5edd96831",
+        "vendor_id": "VENDOR_7",
+        "product_id": "PRODUCT_1010",
+        "quantity": 100,
+        "shipment_date": "2025-07-10",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "e0c53cb8-3da9-42a9-8ed4-2f1a3d4cbf37",
+        "vendor_id": "VENDOR_10",
+        "product_id": "PRODUCT_1001",
+        "quantity": 61,
+        "shipment_date": "2025-07-23",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "bb5e4bcf-15ed-4269-9429-6c07f26b4776",
+        "vendor_id": "VENDOR_10",
+        "product_id": "PRODUCT_1007",
+        "quantity": 29,
+        "shipment_date": "2025-07-19",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "c2b6d2c5-fa5d-4100-91b7-e948d0e6e660",
+        "vendor_id": "VENDOR_1",
+        "product_id": "PRODUCT_1007",
+        "quantity": 77,
+        "shipment_date": "2025-07-21",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "a8e56e0c-20de-435d-a031-d750c40db9b4",
+        "vendor_id": "VENDOR_10",
+        "product_id": "PRODUCT_1006",
+        "quantity": 70,
+        "shipment_date": "2025-07-19",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "43dac043-2a45-42ab-8cbf-edb0f264accc",
+        "vendor_id": "VENDOR_8",
+        "product_id": "PRODUCT_1003",
+        "quantity": 67,
+        "shipment_date": "2025-07-21",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "f6e07cc0-6c52-449f-9b49-bd26df57c59a",
+        "vendor_id": "VENDOR_5",
+        "product_id": "PRODUCT_1004",
+        "quantity": 89,
+        "shipment_date": "2025-07-06",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "badcc32a-c159-4f53-8a0f-4efbedcd465e",
+        "vendor_id": "VENDOR_9",
+        "product_id": "PRODUCT_1001",
+        "quantity": 46,
+        "shipment_date": "2025-07-05",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "fec21bbe-6624-4bfa-8fcc-a39ab683d2e6",
+        "vendor_id": "VENDOR_10",
+        "product_id": "PRODUCT_1008",
+        "quantity": 69,
+        "shipment_date": "2025-07-14",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "7394988f-847f-49b4-a64d-1bcb702753a1",
+        "vendor_id": "VENDOR_4",
+        "product_id": "PRODUCT_1004",
+        "quantity": 78,
+        "shipment_date": "2025-07-01",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "568cc69b-1064-405c-b985-c3cf3f76be1d",
+        "vendor_id": "VENDOR_3",
+        "product_id": "PRODUCT_1006",
+        "quantity": 63,
+        "shipment_date": "2025-06-27",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "96a402f2-3ae8-4c93-8dcd-cd03969b6662",
+        "vendor_id": "VENDOR_1",
+        "product_id": "PRODUCT_1001",
+        "quantity": 79,
+        "shipment_date": "2025-07-06",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "a18ff6b6-b535-406e-922c-9a5601d74256",
+        "vendor_id": "VENDOR_3",
+        "product_id": "PRODUCT_1007",
+        "quantity": 84,
+        "shipment_date": "2025-06-28",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "080aadfb-e7c9-4b26-9141-25c63a9bedd4",
+        "vendor_id": "VENDOR_10",
+        "product_id": "PRODUCT_1002",
+        "quantity": 71,
+        "shipment_date": "2025-07-12",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "474a493b-3ced-4f2d-839f-bc501223b513",
+        "vendor_id": "VENDOR_8",
+        "product_id": "PRODUCT_1008",
+        "quantity": 97,
+        "shipment_date": "2025-07-19",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "b92da22b-21df-406f-8a0b-3c3336d8393a",
+        "vendor_id": "VENDOR_9",
+        "product_id": "PRODUCT_1003",
+        "quantity": 14,
+        "shipment_date": "2025-07-23",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "c8dcd19f-3e35-4128-b900-f7f993829b43",
+        "vendor_id": "VENDOR_5",
+        "product_id": "PRODUCT_1002",
+        "quantity": 64,
+        "shipment_date": "2025-07-18",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "1825bc54-30be-445f-a835-14f2ceb81f9d",
+        "vendor_id": "VENDOR_10",
+        "product_id": "PRODUCT_1006",
+        "quantity": 95,
+        "shipment_date": "2025-06-30",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "6c6fa611-5ab3-4edf-ae59-5ed3a8b317fa",
+        "vendor_id": "VENDOR_4",
+        "product_id": "PRODUCT_1009",
+        "quantity": 37,
+        "shipment_date": "2025-07-15",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "0dde29a6-baa4-471a-9d24-67ac778eedb3",
+        "vendor_id": "VENDOR_3",
+        "product_id": "PRODUCT_1005",
+        "quantity": 55,
+        "shipment_date": "2025-06-30",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "56dc8907-ba6c-44ab-a712-303a0f844fef",
+        "vendor_id": "VENDOR_8",
+        "product_id": "PRODUCT_1006",
+        "quantity": 32,
+        "shipment_date": "2025-07-01",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "894a05e4-30b1-47ef-b10c-0c003fa7f104",
+        "vendor_id": "VENDOR_6",
+        "product_id": "PRODUCT_1010",
+        "quantity": 40,
+        "shipment_date": "2025-07-17",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "474ebc19-2ef9-4276-ac00-6f6123e2fcb4",
+        "vendor_id": "VENDOR_3",
+        "product_id": "PRODUCT_1006",
+        "quantity": 54,
+        "shipment_date": "2025-07-18",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "134c6c92-ec5b-427c-9fde-4fbf3ff350bf",
+        "vendor_id": "VENDOR_7",
+        "product_id": "PRODUCT_1009",
+        "quantity": 75,
+        "shipment_date": "2025-07-17",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "8ce21ea3-db20-456e-9c81-5fe7ceda8bbb",
+        "vendor_id": "VENDOR_1",
+        "product_id": "PRODUCT_1003",
+        "quantity": 69,
+        "shipment_date": "2025-06-30",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "8a63f881-ffd0-49d5-a6f2-f7b80cf35b58",
+        "vendor_id": "VENDOR_10",
+        "product_id": "PRODUCT_1001",
+        "quantity": 8,
+        "shipment_date": "2025-06-26",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "c0e9ab30-ed26-42e9-97e0-11b7f8102383",
+        "vendor_id": "VENDOR_10",
+        "product_id": "PRODUCT_1008",
+        "quantity": 9,
+        "shipment_date": "2025-07-07",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "7b3a4e3e-7c52-4a17-a80a-c07a2a935d62",
+        "vendor_id": "VENDOR_4",
+        "product_id": "PRODUCT_1009",
+        "quantity": 39,
+        "shipment_date": "2025-07-06",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "0f02bad0-e706-4ef4-a6aa-9385dd59ba71",
+        "vendor_id": "VENDOR_8",
+        "product_id": "PRODUCT_1003",
+        "quantity": 19,
+        "shipment_date": "2025-07-03",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "63f2ae24-fc3d-4348-808d-4127610461e3",
+        "vendor_id": "VENDOR_4",
+        "product_id": "PRODUCT_1005",
+        "quantity": 21,
+        "shipment_date": "2025-07-08",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "747b6dba-c8fe-4ccd-88b8-d9c6ed3049cf",
+        "vendor_id": "VENDOR_7",
+        "product_id": "PRODUCT_1004",
+        "quantity": 20,
+        "shipment_date": "2025-07-09",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "bb026576-f512-44c3-b253-d2186c4a37ea",
+        "vendor_id": "VENDOR_5",
+        "product_id": "PRODUCT_1009",
+        "quantity": 59,
+        "shipment_date": "2025-07-22",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "27a0c3d7-7c96-4f79-b7e9-9acaa97065e1",
+        "vendor_id": "VENDOR_2",
+        "product_id": "PRODUCT_1008",
+        "quantity": 4,
+        "shipment_date": "2025-07-05",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "0ef8c2d6-f7fd-4646-b7bb-3eec4bf50b52",
+        "vendor_id": "VENDOR_4",
+        "product_id": "PRODUCT_1003",
+        "quantity": 23,
+        "shipment_date": "2025-07-24",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "bf7b539b-0f9a-4a4b-8acd-4e10bc594585",
+        "vendor_id": "VENDOR_6",
+        "product_id": "PRODUCT_1002",
+        "quantity": 13,
+        "shipment_date": "2025-07-11",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "7a0ecfea-958c-49ba-8cd6-20c20ea2622b",
+        "vendor_id": "VENDOR_4",
+        "product_id": "PRODUCT_1001",
+        "quantity": 100,
+        "shipment_date": "2025-07-20",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "284d82e5-87f7-41fb-9a4b-d9caeb5cf467",
+        "vendor_id": "VENDOR_10",
+        "product_id": "PRODUCT_1000",
+        "quantity": 80,
+        "shipment_date": "2025-06-28",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "d9f195d0-1482-4f53-8201-0c62f5f59b22",
+        "vendor_id": "VENDOR_2",
+        "product_id": "PRODUCT_1006",
+        "quantity": 10,
+        "shipment_date": "2025-07-05",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "acdabacc-1165-4210-9854-3881118a9d29",
+        "vendor_id": "VENDOR_4",
+        "product_id": "PRODUCT_1009",
+        "quantity": 19,
+        "shipment_date": "2025-07-07",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "e3e9de99-f10c-418b-9eb0-e38a675dd5af",
+        "vendor_id": "VENDOR_9",
+        "product_id": "PRODUCT_1000",
+        "quantity": 80,
+        "shipment_date": "2025-07-23",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "0a2c827e-9832-4856-9434-0a033f07f814",
+        "vendor_id": "VENDOR_2",
+        "product_id": "PRODUCT_1003",
+        "quantity": 100,
+        "shipment_date": "2025-06-29",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "90b2b633-956b-4c0c-a849-9b926b5252e3",
+        "vendor_id": "VENDOR_4",
+        "product_id": "PRODUCT_1006",
+        "quantity": 91,
+        "shipment_date": "2025-07-21",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "344a54b8-42c1-4a62-af48-e8d550fd9d3f",
+        "vendor_id": "VENDOR_8",
+        "product_id": "PRODUCT_1008",
+        "quantity": 16,
+        "shipment_date": "2025-07-11",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "21813d25-6552-48a6-83ff-50113d1a85dd",
+        "vendor_id": "VENDOR_1",
+        "product_id": "PRODUCT_1004",
+        "quantity": 84,
+        "shipment_date": "2025-07-10",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "c07a30f2-edd4-453b-90f0-fd0a750cab75",
+        "vendor_id": "VENDOR_2",
+        "product_id": "PRODUCT_1003",
+        "quantity": 75,
+        "shipment_date": "2025-06-29",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "ff9ab5c2-9f04-4aed-b552-332702627f73",
+        "vendor_id": "VENDOR_8",
+        "product_id": "PRODUCT_1000",
+        "quantity": 41,
+        "shipment_date": "2025-07-23",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "89a2688b-12c1-46e0-9998-5f15ff002d4d",
+        "vendor_id": "VENDOR_2",
+        "product_id": "PRODUCT_1005",
+        "quantity": 71,
+        "shipment_date": "2025-07-06",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "eeea163e-21e8-4c68-83e4-2caf8181a8cc",
+        "vendor_id": "VENDOR_9",
+        "product_id": "PRODUCT_1004",
+        "quantity": 14,
+        "shipment_date": "2025-07-12",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "3e896c64-e117-4ac3-919c-4ea3e1805081",
+        "vendor_id": "VENDOR_2",
+        "product_id": "PRODUCT_1000",
+        "quantity": 40,
+        "shipment_date": "2025-07-13",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "d5704f32-702c-4d20-a862-18b848f4ef12",
+        "vendor_id": "VENDOR_3",
+        "product_id": "PRODUCT_1007",
+        "quantity": 79,
+        "shipment_date": "2025-07-22",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "fbddcf7c-9c96-49ec-8d71-c366b41b3143",
+        "vendor_id": "VENDOR_9",
+        "product_id": "PRODUCT_1002",
+        "quantity": 25,
+        "shipment_date": "2025-07-21",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "8dfa6a56-d12d-4c9a-aaf9-15310200b1f0",
+        "vendor_id": "VENDOR_3",
+        "product_id": "PRODUCT_1010",
+        "quantity": 51,
+        "shipment_date": "2025-07-10",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "f05db76e-1a84-451a-a9d3-d7c7ee87905e",
+        "vendor_id": "VENDOR_1",
+        "product_id": "PRODUCT_1004",
+        "quantity": 1,
+        "shipment_date": "2025-07-02",
+        "status": "delayed"
+    },
+    {
+        "shipment_id": "1b66b5a9-e3c4-4657-9d8c-bbac43b409ef",
+        "vendor_id": "VENDOR_10",
+        "product_id": "PRODUCT_1006",
+        "quantity": 18,
+        "shipment_date": "2025-07-22",
+        "status": "on-time"
+    },
+    {
+        "shipment_id": "9ad620ab-4821-4ddb-85b8-9cd927cb6f2a",
+        "vendor_id": "VENDOR_2",
+        "product_id": "PRODUCT_1010",
+        "quantity": 24,
+        "shipment_date": "2025-07-06",
+        "status": "delayed"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "vendor_id": "VENDOR_1",
+        "name": "Cooper, Watts and Farrell",
+        "location": "Kington",
+        "rating": 3.3,
+        "contact_email": "waltersmaria@example.org"
+    },
+    {
+        "vendor_id": "VENDOR_2",
+        "name": "Cook and Sons",
+        "location": "Evanmouth",
+        "rating": 8.6,
+        "contact_email": "hhoffman@example.org"
+    },
+    {
+        "vendor_id": "VENDOR_3",
+        "name": "Mckee, Gardner and Davenport",
+        "location": "South David",
+        "rating": 7.6,
+        "contact_email": "michael05@example.org"
+    },
+    {
+        "vendor_id": "VENDOR_4",
+        "name": "Wright, Garcia and Deleon",
+        "location": "Dicksonberg",
+        "rating": 6.9,
+        "contact_email": "michellecherry@example.org"
+    },
+    {
+        "vendor_id": "VENDOR_5",
+        "name": "Johnson-Doyle",
+        "location": "Kimberlychester",
+        "rating": 6.7,
+        "contact_email": "josephcobb@example.org"
+    },
+    {
+        "vendor_id": "VENDOR_6",
+        "name": "Brennan-Garrison",
+        "location": "East Lisa",
+        "rating": 4.2,
+        "contact_email": "ybailey@example.org"
+    },
+    {
+        "vendor_id": "VENDOR_7",
+        "name": "Johnson and Sons",
+        "location": "Murphyland",
+        "rating": 3.1,
+        "contact_email": "michael86@example.net"
+    },
+    {
+        "vendor_id": "VENDOR_8",
+        "name": "Rivera, Johnson and Wiley",
+        "location": "Gregoryview",
+        "rating": 7.5,
+        "contact_email": "rodriguezryan@example.net"
+    },
+    {
+        "vendor_id": "VENDOR_9",
+        "name": "Graham-Joyce",
+        "location": "South Rachelborough",
+        "rating": 8.8,
+        "contact_email": "bradley60@example.net"
+    },
+    {
+        "vendor_id": "VENDOR_10",
+        "name": "Mcdaniel, Bentley and Mclaughlin",
+        "location": "West Ryan",
+        "rating": 7.8,
+        "contact_email": "cindy14@example.net"
+    }
+]
